@@ -1,3 +1,6 @@
+// 2주차 강의자료
+// https://teamsparta.notion.site/JS-2-es6-Map-Set-37ea730f9e794e25be0012517d950006
+
 // ES6
 
 // 2015년도 이전 => var
